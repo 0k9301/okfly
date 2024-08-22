@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "22101769187",
+    "project_id": "okfly-84ef6",
+    "storage_bucket": "okfly-84ef6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:22101769187:android:6b307ddd2d839d9938bed6",
+        "android_client_info": {
+          "package_name": "com.example.okfly"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0d3sNYvDoGGi1q6yAxhqoKh0HKV6rFH8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
